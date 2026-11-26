@@ -23,3 +23,7 @@ Dieses Python-Programm implementiert eine sichere P2P-Chat-Anwendung mit einer v
 
 **Hinweis:** Dieses P2P-Chat-Programm wurde entwickelt, um eine sichere Kommunikation zwischen den Teilnehmern zu ermöglichen. Stellen Sie sicher, dass die erforderlichen Zertifikate vorhanden sind und die Server-IP korrekt angegeben ist.
 
+## Documentation
+
+Detailed, agent-oriented documentation lives in [docs/](docs/README.md).
+Instructions for AI coding agents: [AGENTS.md](AGENTS.md).
